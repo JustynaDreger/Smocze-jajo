@@ -1,0 +1,20 @@
+﻿  GryKomputerowe_lab3.cpp
+GryKomputerowe_lab3.cpp(81): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+GryKomputerowe_lab3.cpp(123): warning C4305: "argument": obcięcie z "double" do "float"
+GryKomputerowe_lab3.cpp(195): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+GryKomputerowe_lab3.cpp(196): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+GryKomputerowe_lab3.cpp(220): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+GryKomputerowe_lab3.cpp(221): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+GryKomputerowe_lab3.cpp(229): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+GryKomputerowe_lab3.cpp(230): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+GryKomputerowe_lab3.cpp(241): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+GryKomputerowe_lab3.cpp(242): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+GryKomputerowe_lab3.cpp(243): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+GryKomputerowe_lab3.cpp(263): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+GryKomputerowe_lab3.cpp(1794): warning C4305: "argument": obcięcie z "double" do "float"
+  Trwa generowanie kodu
+  1 of 409 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  GryKomputerowe_lab3.vcxproj -> C:\Users\CP\Desktop\Studia\Semestr 4\GK_PROJEKT\GryKomputerowe_lab3\Release\GryKomputerowe_lab3.exe

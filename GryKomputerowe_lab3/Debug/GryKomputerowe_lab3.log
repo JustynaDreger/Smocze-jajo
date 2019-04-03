@@ -1,0 +1,89 @@
+﻿  stdafx.cpp
+  Bron.cpp
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\bron.cpp(25): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  Cube.cpp
+  Cylinder.cpp
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\cylinder.cpp(23): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\cylinder.cpp(33): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\cylinder.cpp(41): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\cylinder.cpp(43): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\cylinder.cpp(52): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\cylinder.cpp(53): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+  GryKomputerowe_lab3.cpp
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\grykomputerowe_lab3.cpp(82): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\grykomputerowe_lab3.cpp(89): warning C4305: "argument": obcięcie z "double" do "float"
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\grykomputerowe_lab3.cpp(92): warning C4129: "R": nierozpoznany znak sekwencji ucieczki
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\grykomputerowe_lab3.cpp(92): warning C4129: "M": nierozpoznany znak sekwencji ucieczki
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\grykomputerowe_lab3.cpp(92): warning C4129: "j": nierozpoznany znak sekwencji ucieczki
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\grykomputerowe_lab3.cpp(128): warning C4305: "argument": obcięcie z "double" do "float"
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\grykomputerowe_lab3.cpp(201): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\grykomputerowe_lab3.cpp(202): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\grykomputerowe_lab3.cpp(226): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\grykomputerowe_lab3.cpp(227): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\grykomputerowe_lab3.cpp(235): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\grykomputerowe_lab3.cpp(236): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\grykomputerowe_lab3.cpp(247): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\grykomputerowe_lab3.cpp(248): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\grykomputerowe_lab3.cpp(249): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\grykomputerowe_lab3.cpp(269): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\grykomputerowe_lab3.cpp(2121): warning C4305: "argument": obcięcie z "double" do "float"
+  Jajo.cpp
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\jajo.cpp(27): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\jajo.cpp(29): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\jajo.cpp(32): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\jajo.cpp(44): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\jajo.cpp(45): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\jajo.cpp(59): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\jajo.cpp(60): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\jajo.cpp(74): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\jajo.cpp(75): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\jajo.cpp(77): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+  Model3D.cpp
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\model3d.cpp(62): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\model3d.cpp(151): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Moneta.cpp
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\moneta.cpp(30): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\moneta.cpp(32): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\moneta.cpp(35): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\moneta.cpp(37): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\moneta.cpp(47): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\moneta.cpp(48): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\moneta.cpp(62): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\moneta.cpp(63): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\moneta.cpp(77): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\moneta.cpp(78): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\moneta.cpp(80): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+  Player.cpp
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\player.cpp(43): warning C4305: "/=": obcięcie z "double" do "float"
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\player.cpp(44): warning C4305: "/=": obcięcie z "double" do "float"
+  Pyramid.cpp
+  Scene.cpp
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\scene.cpp(59): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\scene.cpp(101): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+  SceneObject.cpp
+  Sphere.cpp
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\sphere.cpp(57): warning C4305: "/=": obcięcie z "double" do "float"
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\sphere.cpp(58): warning C4305: "/=": obcięcie z "double" do "float"
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\sphere.cpp(59): warning C4305: "/=": obcięcie z "double" do "float"
+  Studnia.cpp
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\studnia.cpp(30): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\studnia.cpp(44): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\studnia.cpp(55): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\studnia.cpp(64): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\studnia.cpp(65): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\studnia.cpp(66): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+  TextureManager.cpp
+  vec3.cpp
+  Wrog.cpp
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\wrog.cpp(14): warning C4305: "=": obcięcie z "double" do "float"
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\wrog.cpp(38): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\wrog.cpp(44): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\wrog.cpp(45): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\wrog.cpp(48): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\wrog.cpp(49): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\wrog.cpp(52): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\wrog.cpp(53): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\wrog.cpp(56): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+c:\users\cp\desktop\studia\semestr 4\gk_projekt\grykomputerowe_lab3\grykomputerowe_lab3\wrog.cpp(57): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  Generowanie kodu...
+  GryKomputerowe_lab3.vcxproj -> C:\Users\CP\Desktop\Studia\Semestr 4\GK_PROJEKT\GryKomputerowe_lab3\Debug\GryKomputerowe_lab3.exe
